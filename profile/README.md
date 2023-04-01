@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there 🙋‍
+[The UX Toolbox](https://www.theuxtoolbox.com/) is a collection of helpful tools and manuals for making lovable products which can be used by all.
 
-**Here are some ideas to get you started:**
+### 🌈 Contribution guidelines
+How can the community get involved?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### 👩‍💻Helpful links
+- [Homepage](https://www.theuxtoolbox.com/)
+- [Discussions hub](https://github.com/theuxtoolbox/theuxtoolbox.github.io/discussions)
+- [Project board](https://github.com/orgs/theuxtoolbox/projects/1/views/1)
