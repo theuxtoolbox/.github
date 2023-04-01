@@ -3,11 +3,12 @@
 
 ### 👩‍💻 Helpful links
 - [Homepage](https://www.theuxtoolbox.com/)
+- [Wiki](https://github.com/theuxtoolbox/theuxtoolbox.github.io/wiki)
 - [Discussions hub](https://github.com/theuxtoolbox/theuxtoolbox.github.io/discussions)
 - [Project board](https://github.com/orgs/theuxtoolbox/projects/1/views/1)
 
 ### 🌈 Contribution guidelines
-How can the community get involved?
+TODO: How can the community get involved?
 
 ### 😇 Code of conduct
 TODO: [inspo](https://www.design.systems/code-of-conduct)
