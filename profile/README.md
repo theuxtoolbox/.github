@@ -8,3 +8,6 @@
 
 ### 🌈 Contribution guidelines
 How can the community get involved?
+
+### 😇 Code of conduct
+TODO: [inspo](https://www.design.systems/code-of-conduct)
